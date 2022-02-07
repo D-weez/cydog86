@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/first-step/static/css/main.02a96d5a.css",
+    "main.js": "/first-step/static/js/main.c769c4c1.js",
+    "static/media/Cydogs.jpeg": "/first-step/static/media/Cydogs.f86c86ac61374277f50d.jpeg",
+    "static/media/neuropolitical rg.ttf": "/first-step/static/media/neuropolitical rg.4eac589d31d567458ea2.ttf",
+    "static/media/meta_mask.png": "/first-step/static/media/meta_mask.f4c02c9f98edec22db5f.png",
+    "index.html": "/first-step/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.02a96d5a.css",
+    "static/js/main.c769c4c1.js"
+  ]
+}
